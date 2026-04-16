@@ -1,17 +1,38 @@
-# Cohort Retention Analysis (Google Sheets)
+# Cohort Retention Analysis & User Behavior
 
-This project demonstrates a cohort retention analysis created in Google Sheets using pivot tables and conditional formatting.
+This project analyzes user retention patterns using cohort analysis in Google Sheets.
 
+## 📊 Overview
+The goal of this project is to understand how users behave over time after their first interaction with the product.
 
-## Tools Used
+## 🔧 Key Features
+- Cohort-based segmentation using first activity month
+- Retention rate calculation across multiple time intervals
+- Dynamic pivot tables for user aggregation
+- Interactive slicers (Game, Activity Type, Language)
+- Retention heatmap visualization with conditional formatting
 
+## 📈 Analysis
+- Retention decreases over time across all cohorts
+- Early-stage drop-off is significant
+- Some cohorts show stronger engagement depending on activity type and game
+
+## 🛠 Tools Used
 - Google Sheets
 - Pivot Tables
 - Conditional Formatting
-- Cohort Analysis
+- Data Cleaning & Transformation
 
+## 📂 Dataset
+Synthetic dataset containing:
+- user_id
+- activity_date
+- game_activity_name
+- language
+- device type
 
-## Key Insight
-
-The cohort analysis shows that user retention gradually decreases over time. 
-Some cohorts demonstrate stronger retention in the first few months, indicating potential differences in user engagement across acquisition periods.
+## 🚀 What This Project Demonstrates
+- Cohort analysis fundamentals
+- Retention tracking
+- User segmentation
+- Data visualization in spreadsheets
