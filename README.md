@@ -2,9 +2,6 @@
 
 This project demonstrates a cohort retention analysis created in Google Sheets using pivot tables and conditional formatting.
 
-## Cohort Retention Heatmap
-
-![Cohort Heatmap](cohort-retention-heatmap.png)
 
 ## Tools Used
 
